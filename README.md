@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## 🌷 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35" />
+## 🌷 About Me 
 
 + 🎓 First-year Data Engineering student at ENSAH
 + 💡 Passionate about ETL, Data Pipelines & Big Data
@@ -32,7 +32,7 @@
 + 💬 Ask me about Python, SQL, or Vanilla JS
 + 🌸 Pronouns: She/Her
 
-## 🌹 My Tech Garden <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Blossom.png" width="35" />
+## 🌹 My Tech Garden 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=2C003E" />
@@ -46,7 +46,7 @@
 </p>
 
 
-## 🌺 Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bouquet.png" width="35" />
+## 🌺 Featured Projects 
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 </div>
 
-## 📊 Garden Growth Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Sunflower.png" width="35" height="35" alt="sunflower" />
+## 📊 Garden Growth Stats 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhichamihidaya&theme=rose&background=FFF0F5&border=FFB6C1&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&border_radius=15" />
@@ -72,7 +72,7 @@
 
 ---
 
-## 🌙 Currently Blooming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" />
+## 🌙 Currently Blooming 
 
 - 🌸 Learning **Apache Airflow** for workflow orchestration
 - 🌿 Deep diving into **Delta Lake** & **Lakehouse Architecture**
