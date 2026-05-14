@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,10&height=200&section=header&text=Welcome%20to%20my%20Garden%20of%20Data&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,10&height=200&section=header&text=Hi!%20I'm%20Hidaya&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
