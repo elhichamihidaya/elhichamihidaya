@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌷+Data+Engineering+Student;💻+Python+%26+Big+Data+Enthusiast;🌿+Building+Scalable+ETL+Pipelines;✨+Future+Data+Architect;🦋+Turning+Data+into+Art" />
-</p>
-
-<p align="center">
   <em><strong>🌸 Transforming complex datasets into beautiful insights 🌸</strong></em>
 </p>
 
@@ -57,22 +53,21 @@
 
 | 🌸 Project | 📝 Description | 🛠️ Tech Stack | ✨ Status |
 |:---|:---|:---|:---:|
-| **[HealthScope](https://github.com/your-repo)** | Real-time global health dashboard with interactive mapping | `JS` `Leaflet` `API` | 🟢 Active |
-| **[Credit Risk Scoring](https://github.com/your-repo)** | Lambda Architecture with Kafka & Spark Streaming | `Spark` `Kafka` `Python` | 🟡 In Dev |
-| **[COVID Dashboard](https://github.com/your-repo)** | Epidemiological tracking with beautiful Chart.js visuals | `HTML` `CSS` `JS` | ✅ Done |
-| **[Budget Bloom](https://github.com/your-repo)** | Aesthetic personal finance manager with glassmorphism UI | `HTML` `CSS` `JS` | 🌸 New |
+| **[HealthScope](https://github.com/elhichamihidaya/dev-web-projet-healthscope)** | Real-time global health dashboard with interactive mapping | `HTML` `CSS` `JS` `Leaflet` `API` | ✅ Done |
+| **[movie recommendation](https://github.com/elhichamihidaya/movie-recommendation-system)** | Movie recommendation system | `Python` `HTML` `CSS` | ✅ Done |
+| **[PFE_Planner](https://github.com/RedaELMOR/PFE_Planner)** |Advanced algorithmic scheduler with hard constraint resolution. | `JAVA` `Algorithms` | 🟢 Active  |
 
 </div>
 
 ## 📊 Garden Growth Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Sunflower.png" width="35" />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF1493&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=rose&title_color=FF69B4&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elhichamihidaya&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF1493&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhichamihidaya&layout=compact&theme=rose&title_color=FF69B4&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=rose&background=FFF0F5&border=FFB6C1&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhichamihidaya&theme=rose&background=FFF0F5&border=FFB6C1&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&border_radius=15" />
 </p>
 
 <p align="center">
@@ -101,5 +96,5 @@
 </p>
 
 <p align="center">
-  <em>🌸 "In a field of data, she is a wildflower." 🌸</em>
+  <em> "Torture the data, and it will confess to anything." — Ronald Coase </em>
 </p>
