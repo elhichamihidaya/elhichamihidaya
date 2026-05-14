@@ -1,9 +1,5 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           🌸 Welcome to Hidaya's Digital Garden 🌸            ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=25,26,27,28,29&text=✨%20Hidaya's%20Garden%20of%20Data%20✨&fontSize=45&animation=twinkling&fontColor=ffffff&stroke=FF69B4&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=25,26,27,28,29&text=%20Hi! I'm%20Hidaya%20&fontSize=45&animation=twinkling&fontColor=ffffff&stroke=FF69B4&strokeWidth=2" />
 </p>
 
 <p align="center">
@@ -11,38 +7,23 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Cherry%20Blossom.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="40" />
-</p>
-
-<p align="center">
   <em><strong>🌸 Transforming complex datasets into beautiful insights 🌸</strong></em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hidaya-el-hichami/">
+  <a href="https://www.linkedin.com/in/hidaya-el-hichami-7283a33a8/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:elhichamihidaya05@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFC0CB" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/elhichamihidaya">
     <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=DB7093" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Rose.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
-</p>
-
----
-
 ## 🌷 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35" />
 
-```diff
 + 🎓 First-year Data Engineering student at ENSAH
 + 💡 Passionate about ETL, Data Pipelines & Big Data
 + 🚀 Exploring Machine Learning, Spark & Data Viz
@@ -63,7 +44,6 @@
   <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=FFF0F5" />
 </p>
 
----
 
 ## 🌺 Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bouquet.png" width="35" />
 
@@ -77,8 +57,6 @@
 | **[Budget Bloom](https://github.com/your-repo)** | Aesthetic personal finance manager with glassmorphism UI | `HTML` `CSS` `JS` | 🌸 New |
 
 </div>
-
----
 
 ## 📊 Garden Growth Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Sunflower.png" width="35" />
 
