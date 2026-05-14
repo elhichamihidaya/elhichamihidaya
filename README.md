@@ -59,12 +59,7 @@
 
 </div>
 
-## 📊 Garden Growth Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Sunflower.png" width="35" />
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elhichamihidaya&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF1493&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhichamihidaya&layout=compact&theme=rose&title_color=FF69B4&text_color=DB7093&bg_color=FFF0F5&border_color=FFB6C1&border_radius=15&hide_border=false" />
-</p>
+## 📊 Garden Growth Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Sunflower.png" width="35" height="35" alt="sunflower" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhichamihidaya&theme=rose&background=FFF0F5&border=FFB6C1&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&border_radius=15" />
