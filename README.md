@@ -52,11 +52,10 @@
 
 ## 📊 Growth Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rose" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=rose" />
-</p>
+## 📊 Mes Statistiques de Croissance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="50" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=rose&hide_border=false" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=rose" />
 </p>
