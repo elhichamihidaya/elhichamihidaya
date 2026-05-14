@@ -1,5 +1,11 @@
+# 🌸 Hi, I'm Hidaya! | Data Engineering Student
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=25,26,27,28,29&text=%20Hi! I'm%20Hidaya%20&fontSize=45&animation=twinkling&fontColor=ffffff&stroke=FF69B4&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,10&height=200&section=header&text=Welcome%20to%20my%20Garden%20of%20Data&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Data+Engineering+Student;Python+%26+Big+Data+Enthusiast;Building+Scalable+Pipelines;Future+Data+Architect" />
 </p>
 
 <p align="center">
