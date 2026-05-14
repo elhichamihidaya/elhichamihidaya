@@ -1,4 +1,3 @@
-# 🌸 Hi, I'm Hidaya! | Data Engineering Student
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,10&height=200&section=header&text=Welcome%20to%20my%20Garden%20of%20Data&fontSize=40&animation=fadeIn&fontColor=ffffff" />
