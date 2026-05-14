@@ -1,6 +1,3 @@
-Here's your ready-to-copy README! Just paste it directly into your `README.md`:
-
-```markdown
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║           🌸 Welcome to Hidaya's Digital Garden 🌸            ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
@@ -52,9 +49,6 @@ Here's your ready-to-copy README! Just paste it directly into your `README.md`:
 + 🌿 Currently preparing for an internship at VINCI Energies
 + 💬 Ask me about Python, SQL, or Vanilla JS
 + 🌸 Pronouns: She/Her
-```
-
----
 
 ## 🌹 My Tech Garden <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flowers/Blossom.png" width="35" />
 
