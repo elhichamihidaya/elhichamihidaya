@@ -119,22 +119,9 @@ Here's your ready-to-copy README! Just paste it directly into your `README.md`:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=ff69b4&style=for-the-badge&label=Garden+Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=elhichamihidaya&color=ff69b4&style=for-the-badge&label=Garden+Visitors" />
 </p>
 
 <p align="center">
   <em>🌸 "In a field of data, she is a wildflower." 🌸</em>
 </p>
-```
-
----
-
-## 🛠️ Don't Forget to Replace These:
-
-| Placeholder | What to put |
-|-------------|-------------|
-| `your-username` | Your GitHub username (appears **6 times**) |
-| `your-email@example.com` | Your real email |
-| `your-repo` | Your actual GitHub repo links (4 projects) |
-
-Just click the **copy button** on the code block above, paste it into your GitHub profile repo's `README.md`, commit, and you're done! 🌸✨
